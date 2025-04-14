@@ -2,7 +2,7 @@
 
 
 
-> An interactive report uncovering key insights from regional performance data — clean visuals, dynamic metrics, and strategic storytelling all in one dashboard.
+ An interactive report uncovering key insights from regional performance data — clean visuals, dynamic metrics, and strategic storytelling all in one dashboard.
 
 ---
 
@@ -34,22 +34,16 @@ It’s designed for **regional managers and business analysts** to make smart, d
 
 ---
 
-## 📂 Project Structure
-
-
-
-
----
 
 ## 📷 Preview
 
 > Visuals from the dashboard for quick look:
 
-![Overview](images/overview.png)
+![Overview](https://github.com/AMMAR1122-LG/southern-prefecture-dashboard/blob/main/images/Summary%20Dashboard.png)
 
-![City Performance](images/city-performance.png)
+![City Performance](https://github.com/AMMAR1122-LG/southern-prefecture-dashboard/blob/main/images/Location%20Dashboard.png)
 
-![Product Breakdown](images/product-breakdown.png)
+
 
 ---
 
@@ -66,13 +60,12 @@ This project reflects my capabilities to:
 ---
 
 
-
 ## 💼 About Me
 
 Hi! I’m a data analyst who enjoys turning raw data into decision-making tools.  
 My focus areas include business intelligence, Power BI dashboards, and insights storytelling.
 
-📎 **GitHub**: [YourGitHub](https://github.com/YourUsername)  
+📎 **GitHub**: [YourGitHub](https://github.com/AMMAR1122-LG)  
 📎 **LinkedIn**: [YourLinkedInProfile]  
 📎 **Portfolio Website**: [yourwebsite.com]
 
