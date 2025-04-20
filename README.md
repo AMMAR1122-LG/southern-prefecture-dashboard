@@ -65,9 +65,9 @@ This project reflects my capabilities to:
 Hi! I’m a data analyst who enjoys turning raw data into decision-making tools.  
 My focus areas include business intelligence, Power BI dashboards, and insights storytelling.
 
-📎 **GitHub**: [YourGitHub](https://github.com/AMMAR1122-LG)  
-📎 **LinkedIn**: [YourLinkedInProfile]  
-📎 **Portfolio Website**: [yourwebsite.com]
+📎 **GitHub**: [(https://github.com/AMMAR1122-LG) ] 
+📎 **LinkedIn**: [https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/]  
+
 
 ---
 
